@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30985931261",
+    "firebase_url": "https://surf-app-d4604.firebaseio.com",
+    "project_id": "surf-app-d4604",
+    "storage_bucket": "surf-app-d4604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30985931261:android:c75da226e59c2235",
+        "android_client_info": {
+          "package_name": "com.surf.saad.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30985931261-thvh6991j67trkg40n22a9ju2dl108bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surf.saad.app",
+            "certificate_hash": "c28bcb729fcfce001b01c785502768816cdc8b58"
+          }
+        },
+        {
+          "client_id": "30985931261-qh6mm46otg0t1b0ptcbqkrnuc5uusme6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZATnFo_paNN5KJbqFaUY28cTdWLEHB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30985931261-qh6mm46otg0t1b0ptcbqkrnuc5uusme6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
